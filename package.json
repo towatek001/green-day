@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/towatek001/green-day#readme",
   "dependencies": {
-    "fastify": "^3.28.0"
+    "fastify": "^3.28.0",
+    "fastify-static": "^4.6.1"
   }
 }
